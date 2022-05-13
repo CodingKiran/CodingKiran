@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📝 I regularly write articles on [https://hashnode.com/@codingkiran](https://hashnode.com/@codingkiran)
+- 📝 I write articles on [https://hashnode.com/@codingkiran](https://hashnode.com/@codingkiran)
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
