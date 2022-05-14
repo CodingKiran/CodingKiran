@@ -1,16 +1,21 @@
-<h1 align="center">Hi 👋, I'm Kiran Kumar</h1>
-<h3 align="center">Software Enginner changing the world one line of code at a time.</h3>
-<h3 align="center"> Software Enginner at 100Devs </h3>
+<h1 align="center">Hi 👋, I'm Kiran Kumar</h1> <h3> Software Enginner at 100Devs</h3>
+<h3 align="center">Software Enginner changing the world by one line of code at a time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingkiran&label=Profile%20views&color=0e75b6&style=flat" alt="codingkiran" /> </p>
 
 - 🌱 I’m currently learning **React**
 
-- 📝 I write articles on [https://hashnode.com/@codingkiran](https://hashnode.com/@codingkiran)
+- 👨‍💻 All of my projects are available at [https://codingkiran.github.io/Portfolio/](https://codingkiran.github.io/Portfolio/)
+
+- 📝 I regularly write articles on [https://hashnode.com/@codingkiran](https://hashnode.com/@codingkiran)
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
 - 📫 How to reach me **codingkiran92@gmail.com**
+
+- 📄 Know about my experiences [https://www.notion.so/Resume-9badc72a3bc84af08a26d5da2b5a8d58](https://www.notion.so/Resume-9badc72a3bc84af08a26d5da2b5a8d58)
+
+- ⚡ Fun fact **I'm an Introvert by nature and Vegitarian by choice. My Favourite Food: Peanuts and French Fries. Playing Clash Of Clans for almost over 5 years now.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
