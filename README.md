@@ -12,8 +12,8 @@
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
 - 📫 How to reach me **codingkiran92@gmail.com**
-
-- 📄 Know about my experiences [https://www.notion.so/Resume-9badc72a3bc84af08a26d5da2b5a8d58](https://www.notion.so/Resume-9badc72a3bc84af08a26d5da2b5a8d58)
+<!-- 
+- 📄 Know about my experiences [https://www.notion.so/Resume-9badc72a3bc84af08a26d5da2b5a8d58](https://www.notion.so/Resume-9badc72a3bc84af08a26d5da2b5a8d58) -->
 
 - ⚡ Fun fact **I'm an Introvert by nature and Vegitarian by choice. My Favourite Food: Peanuts and French Fries. Playing Clash Of Clans for almost over 5 years now.**
 
