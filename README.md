@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kiran Kumar, Software Enginner at 100Devs</h1>
+<h1 align="center">Hi 👋, I'm Kiran Kumar, Software Enginner</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingkiran&label=Profile%20views&color=0e75b6&style=flat" alt="codingkiran" /> </p>
@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@codingkiran](https://hashnode.com/@codingkiran)
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, React**
 
 - 📫 How to reach me **codingkiran92@gmail.com**
 <!-- 
