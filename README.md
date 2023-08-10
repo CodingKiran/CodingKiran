@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kiran Kumar, Software Enginner</h1>
+<h1 align="center">Hi 👋, I'm Kiran Kumar</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingkiran&label=Profile%20views&color=0e75b6&style=flat" alt="codingkiran" /> </p>
